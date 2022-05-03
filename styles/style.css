@@ -152,7 +152,7 @@ h4 {
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
-  text-align: center
+  text-align: center;
 }
 
 .section-subtitle {
@@ -161,7 +161,7 @@ h4 {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  text-align: center
+  text-align: center;
 }
 
 .table {
@@ -211,7 +211,7 @@ h4 {
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  text-align: center
+  text-align: center;
 }
 
 .feynman__subtitle {
@@ -220,7 +220,7 @@ h4 {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  text-align: center
+  text-align: center;
 }
 
 .feynman__link {
