@@ -108,7 +108,6 @@
 .two-columns__main-text {
   min-width: 784px;
   width: 80%;
-  min-height: 400px;
 }
 
 .two-columns__paragraph {
@@ -141,7 +140,7 @@
 }
 
 .digits__section-subtitle {
-  margin: 20px auto 0;
+  margin: 0 auto;
 }
 
 .digits__table {
@@ -260,7 +259,7 @@
 }
 
 .kaufman__section-subtitle {
-  margin: 20px auto 0;
+  margin: 0 auto;
 }
 
 .kaufman__table {
