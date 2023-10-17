@@ -4,4 +4,4 @@
 1. CSS Flexbox,
 2. CSS Transitions.
 -----------------------------------------------------------  
-*Ссылка:* [https://docmoro.github.io/how-to-learn/index.html]
+*Ссылка:* [https://docmoro.github.io/how-to-learn/]
